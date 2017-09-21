@@ -1,1 +1,2 @@
 Changes for first commit
+Changes for second commit in second branch
